@@ -1,4 +1,4 @@
-import TwoPSet from './Two2PSet';
+import TwoPSet from './Two2Set';
 
 const NUMBER_OF_CLIENTS = 5;
 
